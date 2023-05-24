@@ -1,0 +1,10 @@
+{
+	"name": "Fire Circle",
+	"short_name": "Fire Circle",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#161616",
+	"icons": []
+}
